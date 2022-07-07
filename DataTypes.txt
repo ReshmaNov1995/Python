@@ -1,0 +1,26 @@
+Data Types are classes.
+
+Types of Data Types,
+1)Integers-int
+2)Floating point - float
+3)Strings-str
+4)Lists-list
+5)Dictionaries-dict
+6)Tuples-tup
+7)Sets-set
+8)Complex Number- complex
+9)Booleans-bool
+
+
+
+list - It is a collection(Ordered) of Objects.Allows duplicate.
+Ex: ["Reshma",10,20]
+
+set - It is a collection(UnOrdered) of Objects.Doesn't allows duplicate.
+Ex: {"Reshma",10,20}
+
+dict - It is a collection(Ordered) of Key & Value Pair. Not immutable(Changeable).Doesn't allows duplicate.
+Ex: {"Name":"Reshma","Age":26,"Father's Name":"SundaraMoorthy}
+
+tup - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.
+Ex: ("Reshma",10,20,"Raju")

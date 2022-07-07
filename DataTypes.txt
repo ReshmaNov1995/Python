@@ -32,3 +32,9 @@ tup - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.
 Ex: ("Reshma",10,20,"Raju")
 
 DataTypes will be changed as per the values stored in a variable.
+Same variables can be stored in different DataTypes.
+Ex: x=10
+x="Reshma".
+This is why Python is Dynamically Typed Programming Language.
+
+

@@ -30,3 +30,5 @@ Ex: {"Name":"Reshma","Age":26,"Father's Name":"SundaraMoorthy}
 
 tup - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.
 Ex: ("Reshma",10,20,"Raju")
+
+DataTypes will be changed as per the values stored in a variable.

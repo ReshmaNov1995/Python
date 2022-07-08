@@ -3,3 +3,5 @@ Various Operators are:
       Arithmetic - Mathematical Operations
       Relational - Between variables
       Logical - Boolean 
+
+Relational Operators - Always returns only Boolean Values True/False

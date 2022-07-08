@@ -12,3 +12,6 @@ TRUE	TRUE	TRUE	      TRUE	      FALSE
 TRUE	FALSE	FALSE	      TRUE	      FALSE
 FALSE	TRUE	FALSE	      TRUE	      TRUE
 FALSE	FALSE	FALSE	      FALSE	      TRUE
+
+True = 1
+False = 0

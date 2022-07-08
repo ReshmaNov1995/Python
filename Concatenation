@@ -1,3 +1,4 @@
-concatenate - Merging the values of same datatype
-
+concatenate - Merging the values of same datatypes.
+Numbers can be concatenated with boolean. Because boolean values are 1 and 0.
+Same type of datatype values can also be concatenated.
 

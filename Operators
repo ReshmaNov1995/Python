@@ -5,3 +5,10 @@ Various Operators are:
       Logical - Boolean 
 
 Relational Operators - Always returns only Boolean Values True/False
+
+Logical Operators - and or not
+a	b	a and b	a or b	not a
+TRUE	TRUE	TRUE	      TRUE	      FALSE
+TRUE	FALSE	FALSE	      TRUE	      FALSE
+FALSE	TRUE	FALSE	      TRUE	      TRUE
+FALSE	FALSE	FALSE	      FALSE	      TRUE

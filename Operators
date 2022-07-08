@@ -1,1 +1,5 @@
-
+Operator: An Operator which ll perform operation between 2 or more variables.
+Various Operators are:
+      Arithmetic
+      Relational
+      Logical

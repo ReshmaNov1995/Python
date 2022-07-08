@@ -8,3 +8,5 @@ Variables:
 Variables are reserved Memory Location to Store Values
 Memory will be allocated when the values are stored in variable.
 Every value have datatype
+
+

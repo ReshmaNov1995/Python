@@ -6,12 +6,12 @@
 ## Conditional Statement
   - if
   - if else
-  - el if
+  - elif
   
 ## Looping Statement
   - for
   - while
  
  ## Jumping Statement
-    - break
-    - continue
+  - break
+  - continue

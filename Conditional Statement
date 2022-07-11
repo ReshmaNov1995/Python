@@ -14,3 +14,10 @@ else:
 
 3) elif
  It is used while we have multiple conditions to perform
+ 
+ if condition:
+     body
+ elif condition:
+     body
+ else:
+     body

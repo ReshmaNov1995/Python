@@ -1,1 +1,2 @@
 Inputs getting from the console will always be a String DataType.
+So, Change the datatype of the input as required.

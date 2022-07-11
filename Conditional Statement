@@ -13,3 +13,4 @@ else:
     body
 
 3) elif
+ It is used while we have multiple conditions to perform

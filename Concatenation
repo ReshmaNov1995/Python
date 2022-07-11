@@ -1,4 +1,4 @@
 Concatenation:
-concatenate - Merging the values of same datatypes.
-Numbers can't be concatenated with boolean. Because boolean values are 1 and 0.
-Same type of different datatype values can't be concatenated. Ex: integer and float.
+concatenate - Merging String to String or String with other datatype.
+Numbers can't be concatenated.
+Number with boolean can be added. Because boolean values are 1 and 0.

@@ -1,0 +1,15 @@
+if if...else elif
+
+syntax:
+1) if
+if condition:
+    body
+
+
+2) if else
+if condition:
+    body
+else:
+    body
+
+3) elif

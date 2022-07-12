@@ -3,9 +3,12 @@ Looping Stement:
   While Loop
   
 Looping Statement - It is used to perform same task for the required no.of.times and increase value for each tym of loop.
-Mandatory for looping:
+
+Mandatory for while loop:
       Initialisation
       Condition
       Increment/Decrement
+      
+For loop:
 
 

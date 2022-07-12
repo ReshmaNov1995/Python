@@ -9,6 +9,16 @@ Mandatory for while loop:
       Condition
       Increment/Decrement
       
+Syx:
+  while condition:
+    body
+    increment/decrement
+
 For loop:
+  Use Range function along with for loop.
+  
+syx:
+  for variable in condition:
+    body
 
 

@@ -1,1 +1,7 @@
+Break and Continue
 
+Break:
+  It will exit once the condition is met.
+  
+ Continue:
+  It will skip the condition of the particular iteration and continue with the next iteration.

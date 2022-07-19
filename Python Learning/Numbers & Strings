@@ -1,1 +1,9 @@
-min() and max () functions are used to find the min and max values
+Numbers:
+  min() and max () functions are used to find the min and max values
+
+Strings:
+  How to Store a value in a variable.
+  String is immutable.
+  +(Concatenation) and *(Multiplication) of a String.
+  Slicing - 
+  

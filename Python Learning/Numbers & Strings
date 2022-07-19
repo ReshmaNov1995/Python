@@ -2,9 +2,14 @@ Numbers:
   min() and max () functions are used to find the min and max values
 
 Strings:
-  How to Store a value in a variable.
-  String is immutable.
-  +(Concatenation) and *(Multiplication) of a String.
-  Slicing - while slice it should start from, 1 for ending index and 0 for starting index.
-  ord() - returns the ASCII code of the character.
-  char() - returns the Character of the ASCII value.
+  1) How to Store a value in a variable.
+  2) String is immutable.
+  3) +(Concatenation) and *(Multiplication) of a String.
+  4) Slicing - while slice it should start from, 1 for ending index and 0 for starting index.
+  5) ord() - returns the ASCII code of the character.
+     char() - returns the Character of the ASCII value.
+  6) max(),min(),len()
+  7) in, not in - returns True/False
+  8) String Comparison - Relational Opeartors
+  9) Testing Strings : isalnum(), isalpha(), isdigit(), isidentifier(), islower(), isupper(), isspace()
+  10) Searching for SubStrings

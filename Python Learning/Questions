@@ -1,5 +1,7 @@
 1)Why Python is Dynamically typed Programming Language?
 No need to define DataType.
 Same variable's value can be changed 'n' no.of times.
+But, String values can't be changed. 
 
-2)
+2)Strings are mutable or immutable?
+  Strings are immutable.

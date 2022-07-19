@@ -5,5 +5,6 @@ Strings:
   How to Store a value in a variable.
   String is immutable.
   +(Concatenation) and *(Multiplication) of a String.
-  Slicing - while slice it should start from 1 for ending index and 0 for starting index.
-  
+  Slicing - while slice it should start from, 1 for ending index and 0 for starting index.
+  ord() - returns the ASCII code of the character.
+  char() - returns the Character of the ASCII value.

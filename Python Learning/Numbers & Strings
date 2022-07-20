@@ -13,3 +13,4 @@ Strings:
   8) String Comparison - Relational Opeartors
   9) Testing Strings : isalnum(), isalpha(), isdigit(), isidentifier(), islower(), isupper(), isspace()
   10) Searching for SubStrings - endswith(), startswith(), find(), count()
+  11) Converting Strings - capitalize(), title(), lower(), upper(), swapcase(), replace()

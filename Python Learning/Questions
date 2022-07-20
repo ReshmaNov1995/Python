@@ -3,7 +3,17 @@ No need to define DataType.
 Same variable's value can be changed 'n' no.of times.
 But, String values can't be changed. 
 
-2)Strings are mutable or immutable?
-  Strings are immutable.
+2)String is mutable or immutable?
+  String is immutable.
+The String methods won't change the existing string value. It can only reassigned.
+ Ex: name="reshma"
+ name.upper()
+ print(name) # O/P: reshma
+ 
+ FOR INTEGER: 
+ a=1
+ a+=1
+ print(a) # O/P: 2
+ Now, a value changed from the existing value. These are mutable.
   
 3) Reversal of a String

@@ -19,13 +19,13 @@ Boolean Type:
 
 
 
-list - It is a collection(Ordered) of Objects.Allows duplicate.
+list - It is a collection(Ordered) of Objects.Allows duplicate. Mutable.
 Ex: ["Reshma",10,20]
 
 set - It is a collection(UnOrdered) of Objects.Doesn't allows duplicate.
 Ex: {"Reshma",10,20}
 
-dict - It is a collection(Ordered) of Key & Value Pair. Not immutable(Changeable).Doesn't allows duplicate.
+dict - It is a collection(Ordered) of Key & Value Pair. Mutable(Changeable).Doesn't allows duplicate.
 Ex: {"Name":"Reshma","Age":26,"Father's Name":"SundaraMoorthy}
 
 tup - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.

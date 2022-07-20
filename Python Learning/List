@@ -1,0 +1,4 @@
+List: 
+list - It is a collection(Ordered) of Objects.Allows duplicate. It is mutable.
+Ex: ["Reshma",10,20]
+Negative index allows from zero.

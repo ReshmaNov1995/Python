@@ -11,6 +11,7 @@ Strings:
   6) max(),min(),len()
   7) in, not in - returns True/False
   8) String Comparison - Relational Opeartors
-  9) Testing Strings : isalnum(), isalpha(), isdigit(), isidentifier(), islower(), isupper(), isspace()
+  9) Testing Strings - isalnum(), isalpha(), isdigit(), isidentifier(), islower(), isupper(), isspace()
   10) Searching for SubStrings - endswith(), startswith(), find(), count()
   11) Converting Strings - capitalize(), title(), lower(), upper(), swapcase(), replace()
+  12) Reverse String - Method - 1 using for loop. Method - 2 using slicing

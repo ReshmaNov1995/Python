@@ -5,3 +5,5 @@ But, String values can't be changed.
 
 2)Strings are mutable or immutable?
   Strings are immutable.
+  
+3) Reversal of a String

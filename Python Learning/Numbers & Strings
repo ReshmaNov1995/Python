@@ -12,4 +12,4 @@ Strings:
   7) in, not in - returns True/False
   8) String Comparison - Relational Opeartors
   9) Testing Strings : isalnum(), isalpha(), isdigit(), isidentifier(), islower(), isupper(), isspace()
-  10) Searching for SubStrings
+  10) Searching for SubStrings - endswith(), startswith(), find(), count()

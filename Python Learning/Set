@@ -1,1 +1,7 @@
-
+Set:
+set - It is a collection(UnOrdered. so, non indexed) of Objects.It is mutable. Doesn't allows duplicate.
+Ex: {"Reshma",10,20}
+1) Creating Set
+2) Accessing values of set
+3) Value exist in Set or not
+4) Add items to set

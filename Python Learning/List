@@ -12,3 +12,4 @@ Negative index starts from right to left.
  8) Add Items in the List - append() Adding the new item at the end of the list. , insert() Adding the new item at the required index.
  9) Remove item from the List - pop(), del, clear()
 10) Copy List - list(listtobecopied), listtobecopied.copy()
+11) Join List - using + operator, using loop statement with append, using extend()

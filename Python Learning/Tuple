@@ -9,8 +9,9 @@ Negative index starts from right to left.
 1) Creating tuple
 2) Accessing items from the tuple
 3) Range of Index
-4) Change item value - By default tuple does not allow to Add Item bcoz it is immutable. But, there is a workaround.Can achieved using list.
+4) Change item value - By default tuple does not allow to Add Item bcoz it is immutable. But, there is a workaround.Can achieve using list.
 5) Read the tuple item using loop
 6) Check if the item is exist in the tuple
 7) Tuple length - len()
-8) Add Items in the Tuple - By default tuple does not allow to Add Item bcoz it is immutable. But, there is a workaround.
+8) Add Items in the Tuple - By default tuple does not allow to Add Item bcoz it is immutable. But, there is a workaround.Can achieve using list.
+9) Copy tuple - tuple(tupletobecopied), variable = tupletobecopied

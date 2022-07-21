@@ -15,3 +15,6 @@ Negative index starts from right to left.
 7) Tuple length - len()
 8) Add Items in the Tuple - By default tuple does not allow to Add Item bcoz it is immutable. But, there is a workaround.Can achieve using list.
 9) Copy tuple - tuple(tupletobecopied), variable = tupletobecopied
+10) Removing Item from tuple - del keyword
+11) Joinning tuple - using + operator
+12) Compare tuple - using if

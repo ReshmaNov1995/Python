@@ -1,5 +1,5 @@
 Tuple:
-tup - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.
+tuple - It is a collection(Ordered) of Objects. It is immutable.Allows duplicate.
 Ex: ("Reshma",10,20,"Raju")
 Though it is immutable below things are not possible:
   - cannot modify the existing value

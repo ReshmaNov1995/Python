@@ -1,4 +1,4 @@
 Error:
       Name Error->Specified Name is not defined.
       
-      Key Error->If passed value is not matched in the set.  
+      Key Error->If try to remove the value using remove() which is not exist in the Set.

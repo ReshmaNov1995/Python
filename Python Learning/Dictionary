@@ -8,3 +8,4 @@ Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earl
 5) Check key exist in dictionary 
 6) Find number of items in dictionary
 7) Adding Items in dictionary
+8) Remove Item from dictionary

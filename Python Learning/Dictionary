@@ -1,1 +1,5 @@
-
+Dictionary:
+dict - It is a collection(Ordered) of Key & Value Pair.It is mutable. Doesn't allows duplicate.
+Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+1) Creating dictionary
+2) 

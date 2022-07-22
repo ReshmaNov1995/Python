@@ -8,3 +8,4 @@ Ex: {"Reshma",10,20}
 5) Set length - len()
 6) Remove item from Set - remove(), discard()
 7) Clear the items in the list - clear(), del keyword
+8) Join set - union(), update()

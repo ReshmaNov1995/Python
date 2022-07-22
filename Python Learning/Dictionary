@@ -4,3 +4,7 @@ Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earl
 1) Creating dictionary
 2) Accessing Item from dictionary - Normal access and using get
 3) Change values in dictionary
+4) Reading items from dictionary using loop
+5) Check key exist in dictionary 
+6) Find number of items in dictionary
+7) Adding Items in dictionary

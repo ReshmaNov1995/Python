@@ -1,0 +1,15 @@
+List        Tuple         Set         Dictionary
+Mutable     ImMutable     Mutable     Mutable
+Ordered     Ordered       UnOrdered   Ordered
+Indexed     Indexed       UnIndexed   Indexed
+Duplicate   Duplicate     No          No
+
+List,Tuple,Set: Collection of Object
+Dictionary: Collection of Key & Value Pair
+
+List - Order and data change
+Tuple - Order and No data change
+Set - No Order and data change
+
+Dictionary - It is totally different.
+             Data with key & value pair.

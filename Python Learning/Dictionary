@@ -10,3 +10,4 @@ Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earl
 7) Adding Items in dictionary
 8) Remove Item from dictionary - pop(), del keyword
 9) Clear the items in the list - clear()
+10) Copy dictionary - without copy function, copy()

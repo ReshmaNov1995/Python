@@ -4,16 +4,21 @@ Types of Data Types,
 Numeric Type:
 1)Integers-int
 2)Floating point - float
+
 Text Type:
 3)Strings-str
+
 Sequence Type:
 4)Lists-list
 5)Tuples-tup
+
 Mapping Type:
 6)Dictionaries-dict
+
 Set Type:
 7)Sets-set
 8)Complex Number- complex
+
 Boolean Type:
 9)Booleans-bool
 

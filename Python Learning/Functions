@@ -8,7 +8,7 @@ There are 2 types of Functions,
   Built - in Function
   User defined Function.
   
-Syntax:
+Syntax: (Indentation is must)
       def functionname():
             body of the function
           

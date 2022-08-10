@@ -11,4 +11,6 @@ There are 2 types of Functions,
 Syntax: (Indentation is must)
       def functionname():
             body of the function
-          
+            
+      # To call Function    
+      functionname()

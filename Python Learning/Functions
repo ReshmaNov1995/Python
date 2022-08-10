@@ -1,1 +1,9 @@
 In Python - Function is different. Method is different.
+
+Function is a set of statments which 'll perform a task.
+      Function declaration
+      Calling(Invoking) a Function
+      
+There are 2 types of Functions,
+  Built - in Function
+  User defined Function.

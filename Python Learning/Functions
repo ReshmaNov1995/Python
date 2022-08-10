@@ -14,3 +14,6 @@ Syntax: (Indentation is must)
             
       # To call Function    
       functionname()
+
+1) Function without Parameter
+2)Function with Parameter

@@ -4,6 +4,8 @@ Function is a set of statments which 'll perform a task.
       Function declaration
       Calling(Invoking) a Function
       
+ A Function can be called 'n' no.of.times.
+      
 There are 2 types of Functions,
   Built - in Function
   User defined Function.

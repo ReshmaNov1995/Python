@@ -16,4 +16,5 @@ Syntax: (Indentation is must)
       functionname()
 
 1) Function without Parameter
-2)Function with Parameter
+2) Function with Parameter
+3) Function with Multiple Parameter -> return statement

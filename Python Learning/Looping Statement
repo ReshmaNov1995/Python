@@ -21,4 +21,3 @@ syx:
   for variable in condition:
     body
 
-

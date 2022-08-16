@@ -20,4 +20,3 @@ For loop:
 syx:
   for variable in condition:
     body
-

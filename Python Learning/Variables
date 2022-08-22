@@ -1,4 +1,8 @@
 Global Variables & Local Variables
 
-Global Variable - Variable which creates outside of the Function
-Locaol Variable - Variable which creates inside of the Function
+Global Variable - Variable which creates outside of the Function.
+It can be accessible by both inside & outside.
+
+Local Variable - Variable which creates inside of the Function.
+It can be accessible only inside. Can't access outside.
+

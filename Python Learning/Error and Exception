@@ -2,4 +2,3 @@ Error:
       Name Error->Specified Name is not defined. After deleting the list or set and try to access.
       
       Key Error->If try to remove the value using remove() which is not exist in the Set.
-

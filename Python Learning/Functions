@@ -20,3 +20,7 @@ Syntax: (Indentation is must)
 1) Function without Parameter
 2) Function with Parameter
 3) Function with Multiple Parameter -> return statement
+
+2 Types of Arguments/Parameters can passed to the Function:
+1) Positional Arguments
+2) Keyword Arguments

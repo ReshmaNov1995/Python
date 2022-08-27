@@ -19,3 +19,5 @@ The String methods won't change the existing string value. It can only reassigne
 3) Reversal of a String
 
 4) As positional argument must appear before any keyword argument.
+
+5)If Function returns multiple values then it is a tuple(collection).

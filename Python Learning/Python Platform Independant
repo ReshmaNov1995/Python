@@ -6,3 +6,11 @@ Python is structured and Object Oriented Language.
 
 Why it is said to be Structured?
   Without creating class and object, code can be written.
+
+Object Oriented Programming Structure(OOPS):
+  Class
+  Objects
+  Polymorphism
+  Encapsulation
+  Inheritance
+  Data Abstraction

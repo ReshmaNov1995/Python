@@ -8,4 +8,4 @@ Class:
 Object:
   Object is a instance of a class. 
   It is a Physical Entity. Because it will occupy certain amount of space in memory.
-  
+  Multiple Objects can be created for a class. Each Object is independant.

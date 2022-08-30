@@ -6,5 +6,6 @@ Class:
 
 
 Object:
-  Object is a instance of a class. It is a Physical Entity.
+  Object is a instance of a class. 
+  It is a Physical Entity. Because it will occupy certain amount of space in memory.
   

@@ -1,2 +1,3 @@
 Class is a collection of variables(Attributes) and methods(Behaviour)
 Class is a blue print of an object. It is a Logical Entity.
+It does not occupy space in the memory.

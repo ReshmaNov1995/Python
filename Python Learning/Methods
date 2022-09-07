@@ -9,4 +9,4 @@ Two Types of Method: Static Method, Instance Method
 Static Method: It can call directly using class. Also can call through object.
 For Static Method - @staticmethod
 
-Instance Method: It can call only through object. It can't call directly using class.
+Instance(Non-Static) Method: It can call only through object. It can't call directly using class.

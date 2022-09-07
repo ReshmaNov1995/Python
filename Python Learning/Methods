@@ -6,7 +6,7 @@ Instance Method - self is a default argument taken by method which represents th
 
 Two Types of Method: Static Method, Instance Method
 
-Static Method: It can call directly using class.
+Static Method: It can call directly using class. Also can call through object.
 For Static Method - @staticmethod
 
-Instance Method: It can call only through object.
+Instance Method: It can call only through object. It can't call directly using class.

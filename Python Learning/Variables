@@ -10,3 +10,5 @@ Local variable can be converted to Global by using global keyword.
 Class variable − A variable that is shared by all instances of a class. 
 Class variables are defined within a class but outside of the methods.
 It can be accessed within a method by using self keyword.
+
+

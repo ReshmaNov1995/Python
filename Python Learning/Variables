@@ -6,3 +6,6 @@ It can be accessible by both inside & outside.
 Local Variable - Variable which creates inside of the Function.
 It can be accessible only inside. Can't access outside.
 Local variable can be converted to Global by using global keyword. 
+
+Class variable − A variable that is shared by all instances of a class. 
+Class variables are defined within a class but outside any of the class's methods.

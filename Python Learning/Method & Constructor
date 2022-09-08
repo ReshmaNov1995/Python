@@ -1,1 +1,11 @@
+Method - Any Name can be given
+return the value/s
+It can take arguments
+Object has to be used for invoking
 
+Constructor - Constructor name is fixed.
+def __init__(self):
+
+It 'll not return any value.
+It can also take arguments.
+Constructor 'll be called at the time of object creation itself.

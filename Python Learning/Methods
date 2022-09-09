@@ -5,7 +5,7 @@ The only difference is a Method is created inside a class and Function is create
 self - Instance Method, self is a default argument taken by method which represents the instance of a class. 
        Static Method, self will consider as a argument alone.
        
-       Class Method, cls is a default argument
+       Class Method, cls is a default argument that points a class not a instance.
 
 Two Types of Method: Static Method, Class Method, Instance Method
 

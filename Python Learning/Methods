@@ -10,3 +10,6 @@ Static Method: It can call directly using class. Also can call through object.
 For Static Method - @staticmethod
 
 Instance(Non-Static) Method: It can call only through object. It can't call directly using class.
+
+Note: Static Method can also be accessed using object. But, It will consider self as a parameter.
+self is not same for Instance & static Methods.

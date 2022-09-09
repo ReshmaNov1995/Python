@@ -2,12 +2,14 @@ Function and Method is same.
 
 The only difference is a Method is created inside a class and Function is created without/Outside a class.
 
-Instance Method - self is a default argument taken by method which represents the class name. Static Method will consider as a argument alone.
+Instance Method - self is a default argument taken by method which represents the instance of a class. Static Method will consider as a argument alone.
 
-Two Types of Method: Static Method, Instance Method
+Two Types of Method: Static Method, Class Method, Instance Method
 
 Static Method: It can call directly using class. Also can call through object.
 For Static Method - @staticmethod
+
+Class Method: 
 
 Instance(Non-Static) Method: It can call only through object. It can't call directly using class.
 

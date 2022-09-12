@@ -19,3 +19,4 @@ Predefined Methods 'll return only particular values like,
         
       def __int__(self):
         Print("It ll return only int values)
+

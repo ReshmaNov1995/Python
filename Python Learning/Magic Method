@@ -1,0 +1,9 @@
+Magic(Predefined) Methods 'll return only particular values like,
+    def __float__(self):
+        Print("It ll return only float values)
+      
+     def __str__(self):
+        Print("It ll return only String values)
+        
+      def __int__(self):
+        Print("It ll return only int values)

@@ -26,4 +26,6 @@ The String methods won't change the existing string value. It can only reassigne
   Function-> Can create without a class.
   Method-> should create inside a class.
   
-  
+7) Diff b/w object based language & object oriented language
+object based language - will support only class & Object. Inheritance  will not be supported.
+object oriented language - will support class, Object, Inheritance.

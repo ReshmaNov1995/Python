@@ -3,3 +3,9 @@ Inheritance - Acquiring all the attributes(variables) & behaviour(methods) from 
 Objectives of Inheritance:
       Code Re-usability
       Avoid Duplication
+
+Types of Inheritance:
+      Single Inheritance
+      Multiple Inheritance
+      MultiLevel Inheritance
+      Hierarchical Inheritance

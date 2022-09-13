@@ -9,3 +9,15 @@ Types of Inheritance:
       Multiple Inheritance
       MultiLevel Inheritance
       Hierarchical Inheritance
+
+Single -> Parent
+             |
+           child
+           
+MultiLevel-> child1
+                |
+              child2
+                |
+              child3   and so on
+   
+H

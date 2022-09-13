@@ -1,1 +1,5 @@
 Inheritance - Acquiring all the attributes(variables) & behaviour(methods) from one class to another is said to be Inheritance.
+
+Objectives of Inheritance:
+      Code Re-usability
+      Avoid Duplication

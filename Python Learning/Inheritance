@@ -26,4 +26,7 @@ Hierarchical-> Parent
              |         |
            child1     child2
 
-Multiple->
+Multiple-> Parent1      Parent2
+                 \       /
+                  \     /
+                   child

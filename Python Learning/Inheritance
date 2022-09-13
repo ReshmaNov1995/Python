@@ -20,4 +20,10 @@ MultiLevel-> child1
                 |
               child3   and so on
    
-H
+Hierarchical-> Parent
+                  |
+              ---------
+             |         |
+           child1     child2
+
+Multiple->

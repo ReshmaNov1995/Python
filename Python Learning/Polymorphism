@@ -9,6 +9,6 @@ Method overloading(Compile time polymorphism):
       It is also used to write the code clarity as well as reduce complexity.
       
 Method overriding(Run time polymorphism):
-      A class having methods with same name and same parameters. Method declaration will differ.
+      A class having methods with same name and same parameters. Method definition will differ.
       It is implemented with Inheritance.
       It is mostly used for memory reducing process.

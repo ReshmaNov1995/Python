@@ -2,3 +2,13 @@ Two Types of Polymorphism:
   Compile time polymorphism(Method overloading, Static Polymorphism, Early binding)
   Run time polymorphism(Method overriding, Dynamic Polymorphism, Late binding)
 
+Method overloading(Compile time polymorphism):
+      A class having methods with same name and different parameters.
+      Different Parameters either Number of parameters or Type of parameters.
+      It is used in a single class.
+      It is also used to write the code clarity as well as reduce complexity.
+      
+Method overriding(Run time polymorphism):
+      A class having methods with same name and same parameters. Method declaration will differ.
+      It is implemented with Inheritance.
+      It is mostly used for memory reducing process.

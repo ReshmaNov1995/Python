@@ -1,1 +1,4 @@
-Polymorphism can be implemented using overloading concept.
+Two Types of Polymorphism:
+  Compile time polymorphism(Method overloading, Static Polymorphism, Early binding)
+  Run time polymorphism(Method overriding, Dynamic Polymorphism, Late binding)
+

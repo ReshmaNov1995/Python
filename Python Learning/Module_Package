@@ -2,6 +2,10 @@ Modules are simply files with the “. py” extension containing Python code th
 
 Modules-> Collections of functions, classes(variable + method)
 
+Functions:
 1)How to create a module
 2)How to call the function from one module to another module
 3)Same function in 2 modules
+
+Class(Variable&Method)
+1)

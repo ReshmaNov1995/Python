@@ -16,6 +16,7 @@ Approach:
 import module_name
 from module_name import class/method name/*
 
+---------------------------------------------------------------------------------------
 
 Packages:
 
@@ -25,3 +26,5 @@ Package is a high level entity.
 Structure:
   Package--->module1--->function
          --->module2--->function
+
+whenever python package is created, it will create a python file automatically.

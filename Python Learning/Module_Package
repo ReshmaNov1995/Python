@@ -22,13 +22,17 @@ Packages:
 
 Collection of modules is a Package.
 Package is a high level entity.
+whenever python package is created, it will create a python file(__init__) automatically.
 
 Structure:
+Example - 1:
   Package--->module1--->function
          --->module2--->function
          Accessing the above function out of Python package,
          import sys
          sys.path.append(Absolutepath of the pythonpackage)
+Example - 2:
+  Package1--->Module1--->display
+  Package1--->Package2--->Module2--->show
 
-whenever python package is created, it will create a python file(__init__) automatically.
 

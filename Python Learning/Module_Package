@@ -21,3 +21,7 @@ Packages:
 
 Collection of modules is a Package.
 Package is a high level entity.
+
+Structure:
+  Package--->module1--->function
+         --->module2--->function

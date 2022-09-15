@@ -13,4 +13,4 @@ Class(Variable&Method)
 
 Approach:
 import module_name
-from module_name import class/method name
+from module_name import class/method name/*

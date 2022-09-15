@@ -28,7 +28,7 @@ Structure:
          --->module2--->function
          Accessing the above function out of Python package,
          import sys
-         sys.path.append(Absolutepath of the file)
+         sys.path.append(Absolutepath of the pythonpackage)
 
 whenever python package is created, it will create a python file(__init__) automatically.
 

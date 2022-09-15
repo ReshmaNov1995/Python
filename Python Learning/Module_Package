@@ -26,5 +26,6 @@ Package is a high level entity.
 Structure:
   Package--->module1--->function
          --->module2--->function
+         Accessing the above function out of Python package.
 
-whenever python package is created, it will create a python file automatically.
+whenever python package is created, it will create a python file(__init__) automatically.

@@ -12,7 +12,12 @@ Functions:
 Class(Variable&Method)
 1)Same method in different module
 
-
 Approach:
 import module_name
 from module_name import class/method name/*
+
+
+Packages:
+
+Collection of modules is a Package.
+Package is a high level entity.

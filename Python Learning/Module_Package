@@ -28,10 +28,14 @@ Structure:
 Example - 1:
   Package--->module1--->function
          --->module2--->function
-         Accessing the above function out of Python package,
-         import sys
-         sys.path.append(Absolutepath of the pythonpackage)
 Example - 2:
   Package1--->Module1--->display
   Package1--->Package2--->Module2--->show
-
+Example - 3:
+  Package1--->Module1--->Class--->Method
+  Package2--->Module2--->Class--->Method
+  
+Accessing the above function out of Python package,
+         import sys
+         sys.path.append(Absolutepath of the pythonpackage)
+         

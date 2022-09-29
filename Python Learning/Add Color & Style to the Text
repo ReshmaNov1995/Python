@@ -1,0 +1,3 @@
+pip install colorama
+
+syntax: Fore.(color_of_text, text)

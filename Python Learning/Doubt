@@ -1,3 +1,6 @@
 Negative slicing of string - Start index shouldn't have negative value
 
 Where to install python packages in pycharm - Goto Terminal -> pass the command and Run
+
+What is Attribute Array?
+This array attribute returns a tuple consisting of array dimensions. It can also be used to resize the array.

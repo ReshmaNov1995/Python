@@ -1,2 +1,8 @@
 Exception is an event which 'll cause Program termination.
 try except else
+
+try:
+  block which have the exact content
+  
+except:
+  Exception message when error has occurred

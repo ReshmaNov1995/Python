@@ -14,5 +14,3 @@ Negative index starts from right to left.
 10) Copy List - list(listtobecopied), listtobecopied.copy()
 11) Join List - using + operator, using loop statement with append, using extend()
 12) Compare List - using if
-
-

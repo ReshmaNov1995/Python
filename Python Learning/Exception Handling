@@ -1,5 +1,7 @@
 Exception is an event which 'll cause Program termination.
+
 try except else
+
 
 try:
   which have the exact content

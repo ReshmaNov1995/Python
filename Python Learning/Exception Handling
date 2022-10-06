@@ -8,6 +8,3 @@ try:
   
 except:
   Exception message(This 'll be executed while error has occurred in try block)
-
-
-

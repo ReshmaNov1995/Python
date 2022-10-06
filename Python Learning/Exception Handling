@@ -2,10 +2,10 @@ Exception is an event which 'll cause Program termination.
 try except else
 
 try:
-  block which have the exact content
+  which have the exact content
   
 except:
-  Exception message when error has occurred
+  Exception message(This 'll be executed while error has occurred in try block)
 
 
 

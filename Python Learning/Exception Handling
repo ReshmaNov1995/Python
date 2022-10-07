@@ -11,3 +11,8 @@ except:
 
 When Exceptions can be used?
   It can be used while trying for a WebElement or a Text field which is something hidden.
+
+When Multiple Exception block can be used?
+  If the except block is written for particular Exception handling like zerodivisionerror then it handles only that particular Exception. 
+  To handle other Exceptions separate Exception block has to be written.
+  

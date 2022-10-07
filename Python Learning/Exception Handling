@@ -18,4 +18,4 @@ When Multiple Exception block can be used?
   
 try can be followed with except, else and finally block.
 else block will be executed if the exception has not occurred.
-finally block 
+finally block will be executed always.

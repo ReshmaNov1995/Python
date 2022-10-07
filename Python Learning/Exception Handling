@@ -16,3 +16,6 @@ When Multiple Exception block can be used?
   If the except block is written for particular Exception handling like zerodivisionerror then it handles only that particular Exception. 
   To handle other Exceptions separate Exception block has to be written.
   
+try can be followed with except, else and finally block.
+else block will be executed if the exception has not occurred.
+finally block 

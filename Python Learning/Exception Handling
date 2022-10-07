@@ -8,3 +8,6 @@ try:
   
 except:
   Exception message(This 'll be executed while error has occurred in try block)
+
+When Exceptions can be used?
+  It can be used while trying for a WebElement or a Text field which is something hidden.

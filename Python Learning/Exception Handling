@@ -21,6 +21,3 @@ else block will be executed if the exception has not occurred.
 finally block will be executed always.
 
 else and finally block is non-mandatory.
-
-
-

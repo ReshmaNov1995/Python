@@ -9,4 +9,4 @@ Excel File Operation:
  
 Fetching Data from the DB & write it in the Excel:
   Data writing Row-wise
-  
+  Data writing Column-wise

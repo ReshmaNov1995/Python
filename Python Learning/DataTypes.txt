@@ -21,7 +21,7 @@ E)Set Type:
 
 
 F)Boolean Type:
-9)Boolean-bool
+9)Booleans-bool
 
 
 

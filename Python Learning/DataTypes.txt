@@ -1,27 +1,27 @@
 Data Types are classes.
 
 Types of Data Types,
-Numeric Type:
+A)Numeric Type:
 1)Integers-int
 2)Floating point - float
 3)Complex Number- complex
 
-Text Type:
+B)Text Type:
 4)Strings-str
 
-Sequence Type:
+C)Sequence Type:
 5)Lists-list
 6)Tuples-tup
 
-Mapping Type:
+D)Mapping Type:
 7)Dictionaries-dict
 
-Set Type:
+E)Set Type:
 8)Sets-set
 
 
-Boolean Type:
-9)Booleans-bool
+F)Boolean Type:
+9)Boolean-bool
 
 
 

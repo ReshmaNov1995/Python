@@ -12,4 +12,3 @@ Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earl
 9) Clear the items in the list - clear()
 10) Copy dictionary - without copy function, copy()
 
- number of items in dictionary

@@ -9,7 +9,3 @@ def __init__(self):
 It 'll not return any value.
 It can also take arguments.
 Constructor 'll be called(Invoked) at the time of object creation itself. If the constructor has argument, then it has to be passed while creating the object.
-
-
-
-If the constructor has argument, then it has to be passed while creating the object.

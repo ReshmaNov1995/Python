@@ -39,3 +39,10 @@ Accessing the above function out of Python package,
          import sys
          sys.path.append(Absolutepath of the pythonpackage)
         
+
+
+Structure:
+Example - 1:
+  Package--->module1--->function
+         --->module2--->function
+Example - 2:

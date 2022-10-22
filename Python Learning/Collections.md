@@ -7,3 +7,10 @@
     # Dictionary
 
 Refer the File DataTypes.txt
+
+
+Types of Collections
+    # List
+    # Tuple
+    # Set
+    # Dictionary

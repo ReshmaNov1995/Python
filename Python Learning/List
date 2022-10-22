@@ -14,3 +14,15 @@ Negative index starts from right to left.
 10) Copy List - list(listtobecopied), listtobecopied.copy()
 11) Join List - using + operator, using loop statement with append, using extend()
 12) Compare List - using if
+
+
+
+
+
+ 4) Change item value
+ 5) Read the list item using loop
+ 6) Check if the item is exist in the list
+ 7) List length - len()
+ 8) Add Items in the List - append() Adding the new item at the end of the list. , insert() Adding the new item at the required index.
+ 9) Remove item from the List - pop(), del, clear()
+10) Copy List - list(listtobecopied), listtobecopied.copy()

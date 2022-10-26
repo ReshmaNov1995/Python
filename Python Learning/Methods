@@ -19,6 +19,3 @@ Instance(Non-Static) Method: It can call only through object. It can't call dire
 
 Note: Static Method can also be accessed using object. But, It will consider self as a parameter.
 self is not same for Instance & static Methods.
-
-
-

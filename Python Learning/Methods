@@ -21,4 +21,4 @@ Note: Static Method can also be accessed using object. But, It will consider sel
 self is not same for Instance & static Methods.
 
 
-Two Types of Method: Static Method, Class Method, Instance Method
+

@@ -18,3 +18,7 @@ Negative index starts from right to left.
 10) Removing Item from tuple - del keyword
 11) Joinning tuple - using + operator
 12) Compare tuple - using if
+
+
+
+the tuple item using loop

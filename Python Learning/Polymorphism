@@ -12,7 +12,3 @@ Method overriding(Run time polymorphism):
       A class having methods with same name and same parameters. Method definition will differ.
       It is implemented with Inheritance.
       It is mostly used for memory reducing process.
-
-
-implemented with Inheritance.
-      It is mostly used for memory reducing pro

@@ -34,8 +34,3 @@ object oriented language - will support class, Object, Inheritance.
 try can be followed with except, else and finally block.
 else block will be executed if the exception has not occurred.
 finally block will be executed always.
-
-
-
-object based language - will support only class & Object. Inheritance  will not be supported.
-object oriented language - will support class, Object, Inheritance.

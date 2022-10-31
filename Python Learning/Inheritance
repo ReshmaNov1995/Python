@@ -31,3 +31,5 @@ Multiple-> Parent1      Parent2
                   \     /
                    child
 
+
+Exceptions are raised when some internal events occur which changes the normal flow of the program.

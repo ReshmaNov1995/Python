@@ -7,3 +7,5 @@
     # Dictionary
 
 Refer the File DataTypes.txt
+
+Exceptions are raised when some internal events occur which changes the normal flow of the program.

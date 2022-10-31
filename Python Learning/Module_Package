@@ -38,3 +38,6 @@ Example - 3:
 Accessing the above function out of Python package,
          import sys
          sys.path.append(Absolutepath of the pythonpackage)
+         
+         
+         Exceptions are raised when some internal events occur which changes the normal flow of the program.

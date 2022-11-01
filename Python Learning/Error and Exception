@@ -8,3 +8,5 @@ Definition:
      
 Exception:
        Exceptions are raised when some internal events occur which changes the normal flow of the program.
+
+Key Error->If try to remove the value using remove() which is not exist in the Set.

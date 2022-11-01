@@ -15,5 +15,3 @@ Strings:
   10) Searching for SubStrings - endswith(), startswith(), find(), count()
   11) Converting Strings - capitalize(), title(), lower(), upper(), swapcase(), replace()
   12) Reverse String - Method - 1 using for loop. Method - 2 using slicing
-
-Key Error->If try to remove the value using remove() which is not exist in the Set.

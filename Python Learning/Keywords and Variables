@@ -9,7 +9,3 @@ Variables:
 Variables are reserved Memory Location used to Store Values
 Memory will be allocated when the values are stored in variable.
 Every value have datatype
-
-
-Merging String to String or String with other datatype.
-Numbers can't be concatenated.

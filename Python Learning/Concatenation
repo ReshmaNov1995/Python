@@ -2,3 +2,6 @@ Concatenation:
 concatenate - Merging String to String or String with other datatype.
 Numbers can't be concatenated.
 Number with boolean can be added. Because boolean values are 1 and 0.
+
+Merging String to String or String with other datatype.
+Numbers can't be concatenated.

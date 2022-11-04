@@ -1,5 +1,3 @@
 pip install colorama
 
 syntax: Fore.(color_of_text, text)
-
-https://agaramtech.atlassian.net/projects/HYLIMS/versions/10528/tab/release-report-all-issues

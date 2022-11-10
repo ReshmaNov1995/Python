@@ -30,3 +30,6 @@ Multiple-> Parent1      Parent2
                  \       /
                   \     /
                    child
+
+
+behaviour(methods) from one class to another is said to be Inheritance.

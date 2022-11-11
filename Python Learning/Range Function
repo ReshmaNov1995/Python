@@ -3,6 +3,4 @@ Range:
 
 range(10) -> 0...9(Always starts from 0 and ends by n-1)
 range(1,10) -> 1...9 (starts from 1 and ends by n-1))
-range(1,10,2) -> 1,3,5,7,9 (starts from 1 and increment by 2 and ends by n-1))
-
-dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+range(1,10,2) -> 1,3,5,7,9 (starts from 1 and increment by 2 and ends by n-1)

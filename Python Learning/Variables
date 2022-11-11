@@ -15,3 +15,6 @@ Note: If we need variable as a class variable at anywhere, then we should initia
       self.a
       If we need variable as a global variable at anywhere, then we should initialise with global keyword like,
       global a
+
+
+dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.

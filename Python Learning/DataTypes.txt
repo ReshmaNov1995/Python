@@ -28,7 +28,7 @@ F)Boolean Type:
 list - It is a collection(Ordered) of Objects.Allows duplicate. Mutable.
 Ex: ["Reshma",10,20]
 
-set - It is a collection(UnOrdered) of Objects.Doesn't allows duplicate.
+set - It is a collection(UnOrdered) of Objects.Doesn't allows duplicate. Mutable.
 Ex: {"Reshma",10,20}
 
 dict - It is a collection(Ordered) of Key & Value Pair. Mutable(Changeable).Doesn't allows duplicate.

@@ -1,5 +1,6 @@
 Range:
   Range function can't used alone. It has to be followed by list to get values.
+  It can be either used for multiple values like for loop.
 
 range(10) -> 0...9(Always starts from 0 and ends by n-1)
 range(1,10) -> 1...9 (starts from 1 and ends by n-1))

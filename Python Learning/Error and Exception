@@ -8,5 +8,3 @@ Definition:
      
 Exception:
        Exceptions are raised when some internal events occur which changes the normal flow of the program.
-
-oblems in a program due to which the program will stop the execution. 

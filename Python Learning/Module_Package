@@ -38,5 +38,3 @@ Example - 3:
 Accessing the above function out of Python package,
          import sys
          sys.path.append(Absolutepath of the pythonpackage)
-         
-problems in a program due to which the program will stop the execution. 

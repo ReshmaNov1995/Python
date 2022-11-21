@@ -75,3 +75,6 @@ __le__(self, other)	To get called on comparison using <= operator.
 __eq__(self, other)	To get called on comparison using == operator.
 __ne__(self, other)	To get called on comparison using != operator.
 __ge__(self, other)	To get called on comparison using >= operator.
+
+
+problems in a program due to which the program will stop the execution. 

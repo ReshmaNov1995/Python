@@ -20,3 +20,9 @@ Object Oriented Programming Structure(OOPS):
   Encapsulation
   Inheritance
   Data Abstraction
+
+
+Numeric, String, Tuple are immutable. Which means it 'll create memory allocation for every updated data.
+Ex: a=10 Memory = 59562449; a=100 Memory = 899152.
+List, Set, Dictionary are mutable. Which means it 'll not create memory allocation for every updated data. It 'll update the data on the same memory.
+Ex: a=10 Memory = 59562449; a=100 Memory = 59562449.

@@ -4,7 +4,7 @@ Looping Stement:
   
 Looping Statement - It is used to perform same task for the required no.of.times and increase value for each tym of loop.
 
-Mandatory for while loop:
+Mandatory - for, while loop:
       Initialisation
       Condition
       Increment/Decrement

@@ -1,4 +1,4 @@
 Concatenation:
-concatenate - Merging String to String or String with other datatype.
+concatenate - Merging String to String or String with other datatype(This can be possible only the other datatype is converted into a string).
 Numbers can't be concatenated.
 Number with boolean can be added. Because boolean values are 1 and 0.

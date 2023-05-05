@@ -51,3 +51,4 @@ Immutable - Copy by value -> Original value 'll not be affected(updated).
 It will take the copy of original value. If there is any change in the copied value it will not affects the original value.
 
 
+In Immutable only concatenation, append is possible.

@@ -1,16 +1,28 @@
 if, if...else, elif(if...elif...elif...elif...else)
 
+if:
+The if statement is a conditional statement in python, that is used to determine whether a block of code will be executed or not. 
+Which means if the program finds the condition defined in the if statement to be true, it will go ahead and execute the code block inside the if statement.
+
 syntax:
 1) if
 if condition:
     body
 
+if else:
+if statement executes the code block when the condition is true. 
+Similarly, the else statement works in conjuncture with the if statement to execute a code block when the defined if condition is false.
 
 2) if else
 if condition:
     body
 else:
     body
+
+elif:
+The elif statement is used to check for multiple conditions and execute the code block within if any of the conditions evaluate to be true.
+The elif statement is similar to the else statement in the context that it is optional but unlike the else statement, 
+there can be multiple elif statements in a code block following an if statement.
 
 3) elif
  It is used while we have multiple true conditions to perform

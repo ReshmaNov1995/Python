@@ -1,4 +1,4 @@
-if if...else elif
+if, if...else, elif(if...elif...elif...elif...else)
 
 syntax:
 1) if
@@ -13,7 +13,7 @@ else:
     body
 
 3) elif
- It is used while we have multiple conditions to perform
+ It is used while we have multiple true conditions to perform
  
  if condition:
      body

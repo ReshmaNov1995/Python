@@ -23,3 +23,4 @@ syx:
     body
 
 
+Note: If the required tym of a loop is known then go for "while" loop. If not "for" loop.

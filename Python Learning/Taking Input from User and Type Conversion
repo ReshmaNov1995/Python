@@ -3,4 +3,4 @@ So, Change the datatype of the input as required.
 
 input()
 
-int(),float()
+int(input()),float(input())

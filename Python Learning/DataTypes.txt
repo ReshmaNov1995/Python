@@ -44,9 +44,9 @@ Ex: x=10
 x="Reshma".
 This is why Python is Dynamically Typed Programming Language.
 
-Refer immutable.py (Object's->Reference)
+Refer immutable.py 
 Mutable - Reference by value -> Original value 'll be affected(updated).
-It will take the ref of original value. If there is any change in the reference value it will affects the original value.
+It will take the reference variable of original value. If there is any change in the reference variable's value it will affects the original value.
 Immutable - Copy by value -> Original value 'll not be affected(updated).
 It will take the copy of original value. If there is any change in the copied value it will not affects the original value.
 

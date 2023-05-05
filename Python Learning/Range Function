@@ -1,7 +1,7 @@
 Range:
 The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
 
-  Range function can't used alone. It has to be followed by list to get values.
+  Range function can't used alone. It has to be followed by "list" to get values.
   It can be either used for multiple values like for loop.
 
 range(10) -> 0...9(Always starts from 0 and ends by n-1)

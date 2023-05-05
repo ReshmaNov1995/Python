@@ -4,4 +4,4 @@ Break:
   It will exit once the condition is met.
   
  Continue:
-  It will skip the condition of the particular iteration and continue with the next iteration.
+  Once the condition is met. It 'll skip the remaining part of the body and continue with the next iteration.

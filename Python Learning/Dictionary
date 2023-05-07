@@ -7,7 +7,7 @@ Note: As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earl
 4) Reading items from dictionary using loop
 5) Check key exist in dictionary 
 6) Find number of items in dictionary
-7) Adding Items in dictionary
+7) Adding Items in dictionary - update({key:value})
 8) Remove Item from dictionary - pop(), del keyword
 9) Clear the items in the list - clear()
 10) Copy dictionary - without copy function, copy()

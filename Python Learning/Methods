@@ -7,7 +7,7 @@ self - Instance Method, self is a default argument taken by method which represe
        
        Class Method, cls is a default argument that points a class not a instance.
 
-Two Types of Method: Static Method, Class Method, Instance Method
+Three Types of Method: Static Method, Class Method, Instance Method
 
 Static Method: It can call directly using class. Also can call through object.
 For Static Method - @staticmethod

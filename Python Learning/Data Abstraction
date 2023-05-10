@@ -1,6 +1,8 @@
-Abstraction - The process by which data and functions are defined in such a way that only essential details can be seen and unnecessary implementations are hidden.
+Abstraction - Data abstraction is used to hide the low-level details of the programming constructs that define the underlying logic, 
+which in turn simplifies and streamlines the development process. 
 
 The main focus of data abstraction is to separate the interface and the implementation of the program.
+
 Ex: ATM Machine
 
 utility python file is used by Main python file - Abstraction

@@ -1,1 +1,5 @@
 Encapsulation: Wrapping the data and code together in a single unit.
+
+Private - Accessed within a class
+Protected - Access by base class & derived class
+Public - Access anywhere.

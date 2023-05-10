@@ -3,3 +3,8 @@ Encapsulation: Wrapping the data and code together in a single unit.
 Private - Accessed within a class
 Protected - Access by base class & derived class
 Public - Access anywhere.
+
+Private - # Private Method should be accessed,
+obj = Classname()
+obj._Classname__Methodname()
+print(obj._Classname__variablename)

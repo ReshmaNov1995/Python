@@ -1,6 +1,6 @@
 Refer Karun Notes
 
-File Cut, Copy, Paste, Extract.
+File Cut, Copy, Paste, Download & Extract.
 
 Text File Create, Read, Write, Append
 
@@ -8,6 +8,7 @@ Excel File Operation:
   Getting Max Row
   Getting Max Column
   Retriving Value of the Cell
+  Writing Value into the cell
  
 Fetching Data from the DB & write it in the Excel:
   Data writing Row-wise

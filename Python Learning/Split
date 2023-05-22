@@ -1,0 +1,12 @@
+The string manipulation function in Python used to break down a bigger string into several smaller strings is called the split() function in Python. 
+The split() function returns the strings as a list.
+
+The syntax to define a split() function in Python is as follows:
+
+split(separator, max)
+
+where,
+
+separator represents the delimiter based on which the given string or line is separated
+max represents the number of times a given string or a line can be split up. 
+The default value of max is -1. In case the max parameter is not specified, the split() function splits the given string or the line whenever a separator is encountered.

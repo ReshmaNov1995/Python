@@ -3,6 +3,8 @@ which in turn simplifies and streamlines the development process.
 
 The main focus of data abstraction is to separate the interface and the implementation of the program.
 
+Process of hiding the internal functionality for the end users.
+
 Ex: ATM Machine
 
 utility python file is used by Main python file - Abstraction

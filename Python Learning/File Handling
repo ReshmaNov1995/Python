@@ -1,16 +1,16 @@
 Refer Karun Notes
 
-File Cut, Copy, Paste, Download & Extract.
+File Cut, Copy, Paste (shutil), Download(wget) & Extract(ZipFile).
 
-Text File Create, Read, Write, Append
+Text File Create, Read, Write, Append (os)
 
-Excel File Operation: 
+Excel File Operation: openpyxl
   Getting Max Row
   Getting Max Column
   Retriving Value of the Cell
   Writing Value into the cell
  
-Fetching Data from the DB & write it in the Excel:
+Fetching Data from the DB & write it in the Excel: pypyodbc
   Data writing Row-wise
   Data writing Column-wise
   Data writing in Table format

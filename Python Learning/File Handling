@@ -11,6 +11,4 @@ Excel File Operation: openpyxl
   Writing Value into the cell
  
 Fetching Data from the DB & write it in the Excel: pypyodbc
-  Data writing Row-wise
-  Data writing Column-wise
   Data writing in Table format

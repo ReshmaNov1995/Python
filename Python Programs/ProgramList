@@ -22,3 +22,4 @@ Extract all the number in the given string and return the number as a list
 Fibonacci series
 Factorial of a number
 Palindrome String, Number
+Finding duplicate Characters in a string

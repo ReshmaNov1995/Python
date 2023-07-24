@@ -2,7 +2,7 @@
 Ignore 12a
 Program 1 and 17 is same. Logic is different.
 sort() - Used to sort String
-sorted() - Used to sort the list 
+sorted() - Used to sort list 
 
 1) Find common letters b/w 2 strings
 Remove duplicate

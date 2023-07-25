@@ -1,8 +1,9 @@
 11 Is not required
-Ignore 12a
 Program 1 and 17 is same. Logic is different.
 sort() - Used to sort String
 sorted() - Used to sort list 
+To convert string to list -> split()
+To convert list to string -> join
 
 1) Find common letters b/w 2 strings
 Remove duplicate using set
@@ -93,4 +94,35 @@ for length-1:
             list.append(arr[i])
 list.append(arr[-1])
 
+
+12) Anagram
+Empty list
+for i in list:
+ list.append(sorted(i))
+
+Empty list
+for i in list:
+ list.append(''.join(i))
+
+declare empty dictionary
+for i in size:  # i is a key
+ if arr[i] not in dict:
+  dict[arr[i]] = 1
+ else:
+  dict[arr[i]] = dict[arr[i]]+1
+
+
+13) Min & Max Element
+min = arr[0]
+for i in range(size):
+        if arr[i] < min:
+            min = arr[i]
+
+
+14) Rotation of String
+length
+convert string to list
+pop 0th element
+append(str[i])
+use join
 

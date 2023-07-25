@@ -33,6 +33,9 @@ a = [1,2,3,5,6,7]
 
 
 5) Find out pairs with given sum value of an array
+Use 2 for loops.
+i+j = sum
+
 Method-1:   Use this
 for i in range(size):
  for j in range(size):
@@ -52,10 +55,11 @@ left+1
 
 
 6) Find minimum difference b/w 2 elements of array
-sort
-for length
-        if (arr[i+1] - arr[i] < min_diff):
-            min_diff = arr[i+1] - arr[i]
+sorted
+min = 9999*9999
+for i in range(size-1):
+        if (arr[i+1] - arr[i] < min):
+            min = arr[i+1] - arr[i]
 
 
 7) Find maximum difference b/w 2 elements of array
@@ -65,14 +69,15 @@ same as above
 8) PostFix Expression
 stack = []
 define operator
-for arr
-        if item not in operator: # Operand
-            stack.append(item) 
-        else: # Operator
-            first = int(stack.pop())
-            second = int(stack.pop())
-            if (item == "+"):
-                stack.append(second + first)
+for i in arr:
+         if item not in operator: # Operand
+             stack.append(item)  #push
+         else: # Operator
+             first = int(stack.pop())  # pop
+             second = int(stack.pop())  # pop
+             if (item == "+"):
+                 stack.append(second + first)
+return stack[-1]
 
 
 9) Length of Last word
@@ -83,9 +88,9 @@ len(arr[-1])
 10) Remove duplicate from sorted array
 length
 list = []
-for length
+for length-1:
         if arr[i] != arr[i+1]:
-            list_a.append(arr[i])
-list_a.append(arr[n-1])
+            list.append(arr[i])
+list.append(arr[-1])
 
 

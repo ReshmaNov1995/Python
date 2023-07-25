@@ -126,3 +126,11 @@ pop 0th element
 append(str[i])
 use join
 
+
+15) reverse sentence :
+convert string to list
+reverse the list
+convert list to string
+
+
+16) 

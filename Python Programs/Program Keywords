@@ -160,3 +160,7 @@ if num>1:
 else:
  not a prime
 
+
+19) Substring:
+use 2 for loops
+name[i:j]

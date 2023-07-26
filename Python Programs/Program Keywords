@@ -133,4 +133,20 @@ reverse the list
 convert list to string
 
 
-16) 
+16) First Non Repeating character in a string with its index position:
+len of string
+Empty dict
+for i in range(size):
+ if str[i] not in dict:
+   dict[str[i]] = 1
+ else:
+   dict[str[i]] = dict[str[i]] + 1
+
+count =0
+for i in range(size):
+ if dict[str[i]] == 1:
+    str[i], count
+ count += 1
+
+
+17) 

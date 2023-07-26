@@ -162,8 +162,8 @@ else:
 
 
 19) Substring:
-for i in size:
- for j in (i+1, size+1):
+for i in range(size):
+ for j in range(i+1, size+1):
    name[i:j]
 
 

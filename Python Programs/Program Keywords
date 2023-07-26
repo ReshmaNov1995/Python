@@ -164,3 +164,12 @@ else:
 19) Substring:
 use 2 for loops
 name[i:j]
+
+
+20) Reverse a list:
+using reverse method
+using slicing, [;;-1]
+using for loop,
+empty list
+ for i in (size-1,-1,-1)
+   append in empty list

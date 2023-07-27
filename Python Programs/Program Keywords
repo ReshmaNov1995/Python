@@ -180,3 +180,14 @@ empty list
 use regex concept
 import re
 re.findall(format, string)
+
+
+22) Fibonacci Series
+first = 0
+second = 1
+print(first,second)
+for i in range(2,num):
+ next = first + second
+ first = second
+ second = next
+ print(next)

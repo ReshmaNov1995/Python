@@ -174,3 +174,9 @@ using for loop,
 empty list
  for i in (size-1,-1,-1)
    append in empty list
+
+
+21) Extract all the number in the given string and return the number as a list:
+use regex concept
+import re
+re.findall(format, string)

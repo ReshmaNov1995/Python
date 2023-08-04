@@ -137,11 +137,10 @@ for i in range(size):
  else:
    dict[str[i]] = dict[str[i]] + 1
 
-count =0
 for i in range(size):
  if dict[str[i]] == 1:
-    str[i], count
- count += 1
+    str[i], i
+ 
 
 
 18) Prime Number
@@ -150,8 +149,9 @@ if num>1:
    if num%i == 0:
      not a prime
      break
- else:
-   prime
+  else:
+    prime
+    break
 else:
  not a prime
 

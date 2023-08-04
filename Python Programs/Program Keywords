@@ -96,20 +96,15 @@ list.append(arr[-1])
 
 
 12) Anagram
-Empty list
-for i in list:
- list.append(sorted(i))
-
-Empty list
-for i in list:
- list.append(''.join(i))
-
-declare empty dictionary
-for i in size:  # i is a key
- if arr[i] not in dict:
-  dict[arr[i]] = 1
+size of Anag
+Empty dict
+for i in size:
+ word = ''.join(sorted(anag[i]))
+ if word not in dict:
+  dict[word] = [i+1]
  else:
-  dict[arr[i]] = dict[arr[i]]+1
+  dict[word].append(i+1)
+print(dict)
 
 
 13) Min & Max Element

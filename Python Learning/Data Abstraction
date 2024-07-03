@@ -8,3 +8,4 @@ Process of hiding the internal functionality from the end users.
 Ex: ATM Machine
 
 utility python file is used by Main python file - Abstraction
+Built-in function is also a best example for Abstraction.

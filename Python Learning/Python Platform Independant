@@ -5,7 +5,7 @@ Its high-level built in data structures, combined with dynamic typing and dynami
 why Python is interpreted?
   Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine.
 
-Python Code can Run through IDLE(Python Shell)
+Python Code can Run through IDE(Python Shell)
 Can Run through cmd prompt
 Can Run through Notepad/Notepad++
 
@@ -27,3 +27,4 @@ Numeric, String, Tuple are immutable. Which means it 'll create memory allocatio
 Ex: a=10 Memory = 59562449; a=100 Memory = 899152.
 List, Set, Dictionary are mutable. Which means it 'll not create memory allocation for every updated data. It 'll update the data on the same memory.
 Ex: a=10 Memory = 59562449; a=100 Memory = 59562449.
+
